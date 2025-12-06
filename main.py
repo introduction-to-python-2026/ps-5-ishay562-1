@@ -1,4 +1,5 @@
-import string_utils
+import parse_chemical_reaction from srting_utils
+import import parse_chemical_reaction from srting_utils from srting_utils
 # Add the import statements for functions from string_utils.py and equation_utils.py here
 
 
