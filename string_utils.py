@@ -36,6 +36,7 @@ def parse_chemical_reaction(reaction_equation):
     reaction_equation = reaction_equation.replace(" ", "")  # Remove spaces for easier parsing
     reactants, products = reaction_equation.split("->")
     return reactants.split("+"), products.split("+")
+    
 
 def count_atoms_in_reaction(molecules_list):
     """Takes a list of molecular formulas and returns a list of atom count dictionaries.  
