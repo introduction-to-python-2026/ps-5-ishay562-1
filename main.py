@@ -1,5 +1,8 @@
 import parse_chemical_reaction from srting_utils
-import import parse_chemical_reaction from srting_utils from srting_utils
+import count_atoms_in_reaction from srting_utils 
+import build_equations from equation_utils
+import my_solve from equation_utils
+
 # Add the import statements for functions from string_utils.py and equation_utils.py here
 
 
