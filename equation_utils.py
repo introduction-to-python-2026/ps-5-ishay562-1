@@ -1,7 +1,7 @@
 from sympy import symbols, Eq
 import solve as sympy_solve from sympy
 # Add the import statements for necessary sympy functions here
-
+ 
 
 ELEMENTS = [
     'H', 'He', 'Li', 'Be', 'B', 'C', 'N', 'O', 'F', 'Ne',
