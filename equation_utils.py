@@ -1,3 +1,4 @@
+from sympy import symbols, Eq
 import solve as sympy_solve from sympy
 # Add the import statements for necessary sympy functions here
 
