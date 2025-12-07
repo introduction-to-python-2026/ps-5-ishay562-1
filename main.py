@@ -1,5 +1,5 @@
-from srting_utils import parse_chemical_reaction 
-from srting_utils import count_atoms_in_reaction 
+from string_utils import parse_chemical_reaction 
+from string_utils import count_atoms_in_reaction 
 from equation_utils import build_equations 
 from equation_utils import my_solve 
 
